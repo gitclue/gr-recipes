@@ -22,5 +22,6 @@ depends:
 - gnuradio
 description: Qt based PNG and text display sink for gnuradio
 gitbranch: master
+gitrev: v3.7.3
 inherit: cmake
 source: git+https://github.com/dl1ksv/gr-display.git
